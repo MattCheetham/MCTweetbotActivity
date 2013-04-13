@@ -14,8 +14,6 @@ Add the `MCTweetbotActivity.m` and `MCTweetbotActivity.h` files to your project.
 
 ## Usage
 
-*(See example Xcode project)*
-
 Simply `alloc`/`init` an instance of `MCTweetbotActivity` and pass that object into the applicationActivities array when creating a `UIActivityViewController`.
 
 ```objectivec
