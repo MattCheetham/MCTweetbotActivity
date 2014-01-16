@@ -33,15 +33,15 @@
     
     for (UIActivityItemProvider *item in activityItems) {
         
-        if ([item isKindOfClass:[UIImage class]]) {
+        if ([item isKindOfClass:[NSString class]] || [item isKindOfClass:[NSURL class]]) {
             
-            return NO;
+            return YES;
             
         }
         
     }
     
-    return YES;
+    return NO;
 }
 
 - (void)prepareWithActivityItems:(NSArray *)activityItems
