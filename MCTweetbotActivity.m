@@ -7,6 +7,12 @@
 
 #import "MCTweetbotActivity.h"
 
+@interface MCTweetbotActivity ()
+
+@property (nonatomic, strong) NSString *shareString;
+
+@end
+
 @implementation MCTweetbotActivity
 
 - (NSString *)activityType
