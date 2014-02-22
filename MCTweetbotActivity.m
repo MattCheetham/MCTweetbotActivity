@@ -27,7 +27,7 @@
 
 - (UIImage *)activityImage
 {
-    return [UIImage imageNamed:@"tweetbot"];
+    return [UIImage imageNamed:@"tweetbot_icon"];
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
