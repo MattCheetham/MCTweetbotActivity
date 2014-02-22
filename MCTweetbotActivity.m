@@ -7,6 +7,12 @@
 
 #import "MCTweetbotActivity.h"
 
+@interface MCTweetbotActivity ()
+
+@property (nonatomic, strong) NSString *shareString;
+
+@end
+
 @implementation MCTweetbotActivity
 
 - (NSString *)activityType
@@ -21,7 +27,7 @@
 
 - (UIImage *)activityImage
 {
-    return [UIImage imageNamed:@"tweetbot"];
+    return [UIImage imageNamed:@"tweetbot_icon"];
 }
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
