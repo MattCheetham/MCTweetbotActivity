@@ -10,6 +10,4 @@
 
 @interface MCTweetbotActivity : UIActivity
 
-@property (nonatomic, strong) NSString *shareString;
-
 @end
