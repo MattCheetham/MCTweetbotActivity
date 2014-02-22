@@ -1,6 +1,5 @@
 //
 //  MCTweetbotActivity.m
-//  Gif Finder
 //
 //  Created by Matthew Cheetham on 14/03/2013.
 //  Copyright (c) 2013 Matthew Cheetham. All rights reserved.
