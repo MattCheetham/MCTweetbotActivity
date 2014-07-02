@@ -2,7 +2,7 @@
 //  MCTweetbotActivity.h
 //
 //  Created by Matthew Cheetham on 14/03/2013.
-//  Copyright (c) 2013 Matthew Cheetham.
+//  Copyright (c) 2014 Matthew Cheetham.
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy of
 //  this software and associated documentation files (the "Software"), to deal in
